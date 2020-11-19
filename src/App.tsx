@@ -1,12 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Slideshow from './Components/Slideshow';
 
 const App = () => {
 
   return (
     <div className="App">
-
+      <Slideshow />
     </div>
   );
   
