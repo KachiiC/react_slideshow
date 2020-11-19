@@ -1,0 +1,22 @@
+.slideshows {
+    text-align: center;
+    padding: auto;
+    margin: auto;
+    width: 730px;
+}
+
+.slideshow-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fight-strat-description{
+    margin: 0px 45px;
+    padding: 0px 20px;
+    text-align: left;
+    min-height: 270px;
+}
+
+.btn-container {
+    margin: auto;
+}
